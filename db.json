@@ -4,6 +4,11 @@
       "id": 1,
       "todo": "Get milk from the cow shop",
       "isCompleted": "false"
+    },
+    {
+      "id": 2,
+      "todo": "Assignment",
+      "isCompleted": "true"
     }
   ]
 }
